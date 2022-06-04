@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f48bd1d8-99a8-4fe7-b1da-37560ebbc1bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Pytorch_CV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pytorch_CV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_Zone/01.py" beforeDir="false" />
+    <list default="true" id="f48bd1d8-99a8-4fe7-b1da-37560ebbc1bf" name="Changes" comment="Opencv学习完毕">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +55,8 @@
       <recent name="$PROJECT_DIR$/李超/基础" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5图像修复">
-    <configuration name="2GrabCut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3深度学习接口人脸识别">
+    <configuration name="1哈尔级联" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch_CV" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,12 +64,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/李超/图像分割与修复" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/李超/机器学习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/李超/图像分割与修复/2GrabCut.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/李超/机器学习/1哈尔级联.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3MeanShift" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2车牌识别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch_CV" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +86,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/李超/图像分割与修复" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/李超/机器学习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/李超/图像分割与修复/3MeanShift.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/李超/机器学习/2车牌识别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3深度学习接口人脸识别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_CV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/李超/机器学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/李超/机器学习/3深度学习接口人脸识别.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,28 +166,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytorch_CV" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/李超" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/李超/testt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in goafan" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="Pytorch_CV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,20 +182,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests in goafan" />
-      <item itemvalue="Python.2GrabCut" />
-      <item itemvalue="Python.testt" />
-      <item itemvalue="Python.3MeanShift" />
       <item itemvalue="Python.4MOG" />
       <item itemvalue="Python.5图像修复" />
+      <item itemvalue="Python tests.Python tests in goafan" />
+      <item itemvalue="Python.1哈尔级联" />
+      <item itemvalue="Python.2车牌识别" />
+      <item itemvalue="Python.3深度学习接口人脸识别" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3深度学习接口人脸识别" />
+        <item itemvalue="Python.2车牌识别" />
+        <item itemvalue="Python.1哈尔级联" />
         <item itemvalue="Python.5图像修复" />
         <item itemvalue="Python.4MOG" />
-        <item itemvalue="Python.3MeanShift" />
-        <item itemvalue="Python.2GrabCut" />
-        <item itemvalue="Python.testt" />
       </list>
     </recent_temporary>
   </component>
@@ -217,8 +215,17 @@
       <workItem from="1653874398808" duration="1605000" />
       <workItem from="1653914263400" duration="7311000" />
       <workItem from="1653992047762" duration="27000" />
-      <workItem from="1653992624418" duration="60701000" />
+      <workItem from="1653992624418" duration="61491000" />
+      <workItem from="1654328660586" duration="4831000" />
     </task>
+    <task id="LOCAL-00001" summary="Opencv学习完毕">
+      <created>1654313988870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654313988870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +242,21 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Opencv学习完毕" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opencv学习完毕" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OpenCV$4Sobel.coverage" NAME="4Sobel Coverage Results" MODIFIED="1654136448243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/滤波器" />
     <SUITE FILE_PATH="coverage/OpenCV$SURF.coverage" NAME="SURF Coverage Results" MODIFIED="1654224572845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/特征检测" />
@@ -245,7 +267,7 @@
     <SUITE FILE_PATH="coverage/OpenCV$10MAT.coverage" NAME="10MAT深拷贝浅拷贝 Coverage Results" MODIFIED="1653919221445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超" />
     <SUITE FILE_PATH="coverage/OpenCV$5.coverage" NAME="5图像修复 Coverage Results" MODIFIED="1654313433785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/图像分割与修复" />
     <SUITE FILE_PATH="coverage/OpenCV$5Scharr.coverage" NAME="5Scharr Coverage Results" MODIFIED="1654137056131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/滤波器" />
-    <SUITE FILE_PATH="coverage/OpenCV$2.coverage" NAME="2二值化 Coverage Results" MODIFIED="1654154339351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/形态学" />
+    <SUITE FILE_PATH="coverage/OpenCV$2.coverage" NAME="2车牌识别 Coverage Results" MODIFIED="1654331181321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/机器学习" />
     <SUITE FILE_PATH="coverage/OpenCV$BF.coverage" NAME="BF Coverage Results" MODIFIED="1654245135617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/特征检测" />
     <SUITE FILE_PATH="coverage/OpenCV$09.coverage" NAME="09色彩空间变化 Coverage Results" MODIFIED="1653915385538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超" />
     <SUITE FILE_PATH="coverage/OpenCV$2GrabCut.coverage" NAME="2GrabCut Coverage Results" MODIFIED="1654311141868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/图像分割与修复" />
@@ -259,14 +281,14 @@
     <SUITE FILE_PATH="coverage/OpenCV$11.coverage" NAME="11图像的属性 Coverage Results" MODIFIED="1653962034606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超" />
     <SUITE FILE_PATH="coverage/OpenCV$Canny.coverage" NAME="Canny Coverage Results" MODIFIED="1654137798154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/滤波器" />
     <SUITE FILE_PATH="coverage/OpenCV$tomashi.coverage" NAME="tomashi Coverage Results" MODIFIED="1654221971399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/特征检测" />
-    <SUITE FILE_PATH="coverage/OpenCV$1.coverage" NAME="1分水岭法 Coverage Results" MODIFIED="1654310147449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/图像分割与修复" />
+    <SUITE FILE_PATH="coverage/OpenCV$1.coverage" NAME="1哈尔级联 Coverage Results" MODIFIED="1654329373460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/机器学习" />
     <SUITE FILE_PATH="coverage/OpenCV$Harris.coverage" NAME="Harris Coverage Results" MODIFIED="1654221311468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/特征检测" />
     <SUITE FILE_PATH="coverage/OpenCV$.coverage" NAME="图像拼接 Coverage Results" MODIFIED="1654263639475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/特征检测" />
     <SUITE FILE_PATH="coverage/OpenCV$testt.coverage" NAME="testt Coverage Results" MODIFIED="1654310982124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超" />
     <SUITE FILE_PATH="coverage/OpenCV$4MOG.coverage" NAME="4MOG Coverage Results" MODIFIED="1654313107485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/图像分割与修复" />
     <SUITE FILE_PATH="coverage/OpenCV$6laplacian.coverage" NAME="6laplacian Coverage Results" MODIFIED="1654137398326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/滤波器" />
     <SUITE FILE_PATH="coverage/OpenCV$3MeanShift.coverage" NAME="3MeanShift Coverage Results" MODIFIED="1654312094000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/图像分割与修复" />
-    <SUITE FILE_PATH="coverage/OpenCV$3.coverage" NAME="3自适应二值化 Coverage Results" MODIFIED="1654155903408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/形态学" />
     <SUITE FILE_PATH="coverage/OpenCV$flann.coverage" NAME="flann Coverage Results" MODIFIED="1654263351882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/特征检测" />
+    <SUITE FILE_PATH="coverage/OpenCV$3.coverage" NAME="3深度学习接口人脸识别 Coverage Results" MODIFIED="1654334199730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/李超/机器学习" />
   </component>
 </project>
