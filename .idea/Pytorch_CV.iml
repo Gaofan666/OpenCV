@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/龙龙-pytorch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Python回顾/数据结构" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/李超" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/李超/停车位识别/park" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (py39-opencv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
